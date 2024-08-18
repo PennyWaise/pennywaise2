@@ -1,0 +1,28 @@
+{
+  "name": "pennywaise2",
+  "version": "1.0.0",
+  "description": "pennywaise",
+  "main": "app.js",
+  "scripts": {
+    "test": "penny",
+    "Aydın": "'Merhaba benim adım Aydın'",
+    "Zeynep":"Merhaba benim adım Zeynep",
+    "start": "node index"
+  },
+  "keywords": [
+    "penny",
+    "key",
+    "project"
+  ],
+  "author": "penny",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.3",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PennyWaise/pennywaise2.git",
+
+  }
+}
